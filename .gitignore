@@ -1,0 +1,19 @@
+# Dependency directory (Never commit this!)
+node_modules/
+
+# Environment variables (Contains secrets/passwords)
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
